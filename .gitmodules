@@ -1,0 +1,6 @@
+[submodule "user/plugins/yourls-api-edit-url"]
+	path = user/plugins/yourls-api-edit-url
+	url = https://github.com/SFUAnime/yourls-api-edit-url
+[submodule "user/plugins/yourls-api-delete"]
+	path = user/plugins/yourls-api-delete
+	url = https://github.com/SFUAnime/yourls-api-delete
