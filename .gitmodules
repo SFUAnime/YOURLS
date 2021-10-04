@@ -7,3 +7,6 @@
 [submodule "user/plugins/yourls-api-search-keywords"]
 	path = user/plugins/yourls-api-search-keywords
 	url = https://github.com/SFUAnime/yourls-api-search-keywords
+[submodule "user/plugins/yourls-change-password"]
+	path = user/plugins/yourls-change-password
+	url = https://github.com/ozh/yourls-change-password
