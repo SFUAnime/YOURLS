@@ -4,3 +4,6 @@
 [submodule "user/plugins/yourls-api-delete"]
 	path = user/plugins/yourls-api-delete
 	url = https://github.com/SFUAnime/yourls-api-delete
+[submodule "user/plugins/yourls-api-search-keywords"]
+	path = user/plugins/yourls-api-search-keywords
+	url = https://github.com/SFUAnime/yourls-api-search-keywords
